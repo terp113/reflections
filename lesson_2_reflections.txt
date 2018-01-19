@@ -4,3 +4,13 @@ When you intialize the repsitory a hidden git file is created but no commits. To
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area is a preping area for the first commit which updates the repository
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can check ti see if move files than are logical are added to sthe stagin area and should be broken into additional commits
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when you want to try something new or different that may not effect the currecnt working project.
+
+How do the diagrams help you visualize the branch structure?
+Lets you know how the separte projects have developed since last being joined and let you visualize what is unreachable.
