@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you intialize the repsitory a hidden git file is created but no commits. To start the git file 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is a preping area for the first commit which updates the repository
