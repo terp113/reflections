@@ -14,3 +14,10 @@ when you want to try something new or different that may not effect the currecnt
 
 How do the diagrams help you visualize the branch structure?
 Lets you know how the separte projects have developed since last being joined and let you visualize what is unreachable.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+To see waht is included and what is removed.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+autmoatic pros easier but guesses can be made. manually more time consuming but you get exactly what you intend
