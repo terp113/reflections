@@ -12,3 +12,5 @@ branches are new parts of a rpository separte from the master branch
 What is the benefit of having a copy of the last known state of the remote stored locally?
 not sure
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+easier tracking changes, more difficult manging the changes from a large number of users and branches
